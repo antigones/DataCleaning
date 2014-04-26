@@ -11,6 +11,7 @@ Make It Work
 - Extract the sample dataset in a folder
 - Put run_analysis.R in the "UCI HAR Dataset" folder
 - Launch R Studio
+- in RStudio, install "reshape2" package
 - in RStudio set current working directory: setwd("your_path_to_uci_har_dataset_folder")
 - in RStudio launch the script: source("run_analysis.R")
 - the script produces the file "tidy.txt", containing the tidy dataset.
